@@ -67,7 +67,7 @@
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-prettier": "^5.2.3",
 		"file-loader": "^6.2.0",
-		"got": "^11.8.6",
+		"got": "^14.6.6",
 		"html-webpack-plugin": "^5.6.3",
 		"karma": "^6.4.4",
 		"karma-chrome-launcher": "^3.2.0",
@@ -78,7 +78,7 @@
 		"karma-typescript": "^5.5.3",
 		"prettier": "^3.4.2",
 		"rimraf": "^3.0.2",
-		"rollup": "^3.3.0",
+		"rollup": "^4.59.0",
 		"rollup-plugin-dts": "^5.2.0",
 		"rollup-plugin-license": "^3.0.1",
 		"terser-webpack-plugin": "^5.3.11",
@@ -88,6 +88,6 @@
 		"ua-parser-js": "^0.7.32",
 		"webpack": "^5.97.1",
 		"webpack-cli": "^5.1.4",
-		"webpack-dev-server": "^4.15.2"
+		"webpack-dev-server": "^5.2.3"
 	}
 }
