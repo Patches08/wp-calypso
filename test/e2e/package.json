@@ -55,7 +55,7 @@
 		"lodash": "^4.17.20",
 		"mailosaur": "^8.4.0",
 		"node-fetch": "^2.7.0",
-		"playwright": "1.48.2",
+		"playwright": "1.55.1",
 		"postcss": "^8.3.11"
 	}
 }
