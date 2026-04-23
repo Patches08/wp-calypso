@@ -226,7 +226,7 @@
 		"react-modal": "^3.16.1",
 		"redux": "^5.0.1",
 		"request": "^2.88.2",
-		"swiper": "^10.1.0",
+		"swiper": "^12.1.2",
 		"workspace": "^0.0.1-preview.1",
 		"wpcom": "workspace:^"
 	},
